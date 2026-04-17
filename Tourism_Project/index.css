@@ -1,0 +1,24 @@
+body { background-color:none;  margin:0; padding:0; font-family:Georgia; text-align:center;}
+
+.intro { text-align:center; font-family:Tahoma; font-size:40px; color:purple;}
+
+header { background-color: darkslategrey; color: white; font-weight:bold; font-size:20px; padding:15px; font-family: Arial;}
+
+.hero {background-image: url("mp.jpeg"); height: 1000px; background-size: cover; background-position: centre; color: white; display: flex; align-items: center; justify-content: center;}
+
+.main-section { width: 100%; background-color:darkslategrey; padding:20px;}
+
+nav a { text-decoration:none; background-color:darkslategrey; color:white; font-weight:bold; font-size:20px; font-family:Arial; padding:15px;}
+
+h2 {font-size:30px; color:mediumorchid;}
+
+section {padding: 20px;}
+
+footer { background-color:darkslategrey; color: white; padding: 15px;}
+.footer-container {display-flex; justify-content: space-between;}
+.left {text-align: left;}
+.right {text-align: right;}
+
+#mptext {text-align:justify;}
+
+img {width: 100%; max-width:300px; height: auto; display: block; margin: auto;}

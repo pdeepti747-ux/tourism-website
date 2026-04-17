@@ -1,0 +1,18 @@
+body {font-family: Arial; background-color: white; margin: 0;}
+
+header {background-color: darkblue ; color: white; text-align: center; padding: 15px; font-size: 20px; font-family: Georgia;}
+
+.content {padding: 0; text-align: justify; margin:0;}
+
+h2 { text-align: left; color: darkblue ; font-size: 30px; margin: 0; line-height:1;}
+
+nav a { margin: 20px; color: white; text-decoration: none; font-weight: bold;}
+
+
+p {font-size: 18px;}
+
+.place {display: flex; gap: 20px; margin-bottom: 30px; border: 1px solid px #ccc; padding: 15px; border-radius: 10px; backgroung-color: Black; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}
+.place img {width: 250px; border-radius: 10px;}
+
+footer { background-color:darkslategrey; color: white; padding: 10px;}
+
